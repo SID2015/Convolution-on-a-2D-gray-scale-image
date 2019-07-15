@@ -1,4 +1,4 @@
-# Convolution-on-a-gray-scale-image
+# Convolution-on-a-2D-gray-scale-image
 
 Let's explore how convolutions work by creating a basic convolution on a 2D Grey Scale image. 
 
