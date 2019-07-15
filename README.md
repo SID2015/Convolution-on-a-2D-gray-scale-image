@@ -19,3 +19,17 @@ Finally we'll load the new value into the transformed image.
 6)Now we can plot the image to see the effect of the convolution!
 
 7)The code will show a (2, 2) pooling. The idea here is to iterate over the image, and look at the pixel and it's immediate neighbors to the right, beneath, and right-beneath. Taking the largest of them and load it into the new image. Thus the new image will be 1/4 the size of the old -- with the dimensions on X and Y being halved by this process. We'll see that the features get maintained despite this compression!
+
+
+Please check the Attatched Screenshot
+
+![](/imgs/img1.png)
+
+
+![](/imgs/img2.png)
+
+
+![](/imgs/img3.png)
+
+
+![](/imgs/img4.png)
